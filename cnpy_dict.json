@@ -1,10 +1,15 @@
 {
-  "name": "$name$",
-  "version": "$version$",
-  "description": "$END$",
-  "main": "$main$",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "private": true
+    "关键词": {
+        "如果": "if",
+        "否则": "else",
+        "对于": "for",
+        "在": "in",
+        "定义": "def",
+        "返回": "return",
+        "真": "True",
+        "假": "False",
+        "空": "None"
+    },
+    "运算符": {"并且": "and", "或者": "or", "非": "not"},
+    "内置函数": {"打印": "print", "范围": "range"}
 }
